@@ -17,7 +17,7 @@ const LandingPage = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
-              <span className="text-2xl font-bold text-blue-600">PostPro</span>
+              <span className="text-2xl font-bold text-blue-600">Poster</span>
             </div>
             <div className="flex items-center space-x-4 bg-blue-600 rounded-lg px-3 py-2 text-white">
               
@@ -109,7 +109,7 @@ const LandingPage = () => {
       <footer className="py-8 border-t">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center">
-            <span className="text-gray-600"> &copy; {new Date().getFullYear()} PostPro. All rights reserved.</span>
+            <span className="text-gray-600"> &copy; {new Date().getFullYear()} Technobsolutions. All rights reserved.</span>
             <div className="flex space-x-6">
               <a href="#" className="text-gray-600 hover:text-gray-900">Terms and Privacy</a>
               <a href="#" className="text-gray-600 hover:text-gray-900">Contact</a>
